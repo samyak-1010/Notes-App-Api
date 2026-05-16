@@ -2,7 +2,7 @@
 
 A production-ready, multi-user notes service built with **Node.js**, **Express**, and **SQLite**. Think backend for Google Keep or Apple Notes — with authentication, full CRUD, note sharing, search, and smart organization features.
 
-**Live URL**: _`https://notes-app-api-1-b1ji.onrender.com`
+**Live URL**: `https://notes-app-api-1-b1ji.onrender.com`
 
 ---
 
